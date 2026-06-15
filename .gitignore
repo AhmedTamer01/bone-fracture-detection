@@ -7,3 +7,10 @@ __pycache__/
 *.zip
 *.pkl
 *.onnx
+
+*.csv
+*.xlsx
+*.json
+*.jpg
+*.jpeg
+*.png
