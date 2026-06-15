@@ -1,15 +1,27 @@
 # Bone Fracture Detection
 
-## Description
-Deep learning model for detecting bone fractures in X-ray images.
+This repository contains the Jupyter Notebooks and source code for the **Bone Fracture Detection** project. It includes data preprocessing, model training, and evaluation scripts.
 
-## Category
-Computer Vision
+## Tech Stack & Libraries Used
 
-## Tech Stack / Tags
-- Python
-- Jupyter
-- Healthcare AI
+- `google`
+- `os
+`
+- `pathlib`
+- `random,`
+- `numpy`
+- `pandas`
+- `matplotlib`
+- `seaborn`
+- `PIL`
+- `torch
+`
+- `torch`
+- `torchvision`
+- `sklearn`
+- `pytorch_grad_cam`
+- `random
+`
 
 ---
 *This repository is part of my AI Engineer / Data Scientist Portfolio.*
