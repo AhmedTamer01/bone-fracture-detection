@@ -1,11 +1,9 @@
 node_modules/
 __pycache__/
-*.csv
-*.xlsx
-*.zip
-*.pt
-*.h5
 *.mp4
-datasets/
-dataset/
-archive/
+.env
+*.h5
+*.pth
+*.zip
+*.pkl
+*.onnx
